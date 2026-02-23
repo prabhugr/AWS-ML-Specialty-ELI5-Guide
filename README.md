@@ -2,7 +2,7 @@
 
 An interactive visual mind map exploring cloud computing domains and AWS services. Built as a study and reference tool for cloud practitioners.
 
-**[🔗 Live Demo](https://gangprab.github.io/cloud-computing-mindmap/)**
+**[🔗 Live Demo](https://prabhugr.github.io/cloud-computing-mindmap/)**
 
 ## Features
 
